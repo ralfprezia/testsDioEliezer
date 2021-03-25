@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": ".vscode",
+			"path": "..\\..\\..\\Work\\DIO\\dotnet-vaquinha-tests\\.vscode"
+		},
+		{
+			"path": "..\\..\\..\\Work\\DIO\\dotnet-vaquinha-tests\\src"
+		},
+		{
+			"path": "..\\..\\..\\Work\\DIO\\dotnet-vaquinha-tests\\tests"
+		}
+	],
+	"settings": {}
+}
